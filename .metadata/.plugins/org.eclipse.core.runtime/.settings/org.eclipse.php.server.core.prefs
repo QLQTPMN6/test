@@ -1,0 +1,4 @@
+#Sat Aug 22 12:50:31 ICT 2020
+eclipse.preferences.version=1
+defaultPHPServer=Default PHP Web Server
+phpServers=<server><name>Default PHP Web Server</name><base_url>http\://localhost</base_url><hostname>localhost</hostname><document_root></document_root></server>
